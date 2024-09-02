@@ -1,0 +1,10 @@
+This Python script simulates a pet store purchase by allowing users to select items, enter quantities, and calculate the total cost including sales tax.
+
+How it works:
+
+Item Database: The script maintains a list of available items with their types and prices.
+User Input: The script prompts the user to enter the item type they want to purchase and the quantity.
+Item Validation: The item_price function checks if the entered item type exists in the database and returns its price.
+Quantity Validation: The get_quantity function ensures that the user enters a valid positive integer for the quantity.
+Calculation: The script calculates the subtotal, tax, and grand total based on the selected items and quantities.
+Output: The script prints a detailed summary of the purchase, including the items purchased, quantities, subtotal, tax, and grand total.
