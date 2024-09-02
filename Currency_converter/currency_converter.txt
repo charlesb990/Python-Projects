@@ -1,0 +1,5 @@
+This Python script allows users to convert US dollars (USD) to British pounds (GBP), Euros (EUR), or Chinese Yuan (CNY).
+
+User Input: The script prompts the user to enter the amount of USD they want to convert and the desired currency code (GBP, EUR, or CNY).
+Conversion: Based on the selected currency code, the script calls the appropriate conversion function (e.g., convert_pound, convert_euro, or convert_yuan) and calculates the equivalent amount in the desired currency.
+Output: The script displays the converted amount to the user.
